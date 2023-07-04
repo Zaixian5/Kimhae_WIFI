@@ -11,9 +11,9 @@
 따라서 웹페이지를 구동하려면 무조건 vs code의 라이브서버(127.0.0.1:5500)만 사용해야 한다.<br>
 
 <ul>
-  <l1>VS code 설치</li>
-  <l1>VS code에서 Live Server 확장 패키지 설치</li>
-  <l1>크롬 브라우저 확장 프로그램 Allow CORS 설치 및 실행 (일시적으로 CORS 보안 에러를 무효화하는 프로그램)</li>
-  <l1>wifi.js 파일을 wifi.html과 같은 디렉토리에 위치시키고 wifi.html파일 vs code로 열기</li>
-  <l1>VS code에서 wifi.html 파일 우클릭 후 open with Live Server 클릭</li>
+  <li>VS code 설치</li>
+  <li>VS code에서 Live Server 확장 패키지 설치</li>
+  <li>크롬 브라우저 확장 프로그램 Allow CORS 설치 및 실행 (일시적으로 CORS 보안 에러를 무효화하는 프로그램)</li>
+  <li>wifi.js 파일을 wifi.html과 같은 디렉토리에 위치시키고 wifi.html파일 vs code로 열기</li>
+  <li>VS code에서 wifi.html 파일 우클릭 후 open with Live Server 클릭</li>
 </ul>
